@@ -573,7 +573,7 @@ Positive integer value.
 
 Set birth date
 
-`appodeal.settings.birthday = 478645200000; // unixtime(секунды)`
+`appodeal.settings.birthday = 478645200000; // unixtime(seconds)`
 
 Parameter birthday takes unixtime econds. To determine unixtime by date, use the code:
 
