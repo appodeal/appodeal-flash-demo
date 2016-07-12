@@ -1,4 +1,4 @@
-# Appodeal AIR Documentation
+# Appodeal AIR Demo
 
 [![](https://img.shields.io/badge/documentation-here-red.svg)](http://www.appodeal.com/sdk/documentation?framework=7)
 ![](https://img.shields.io/badge/version-1.14.15%2F0.10.7-green.svg)
