@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
 <application xmlns="http://ns.adobe.com/air/application/23.0">
     <id>com.appodeal.test</id>
-    <versionNumber>1.15.7</versionNumber>
+    <versionNumber>1.16</versionNumber>
     <versionLabel></versionLabel>
     <filename>Appodeal_Example</filename>
     <description/>
@@ -181,6 +181,27 @@
 	]]></manifestAdditions>
     </android>
     
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   
