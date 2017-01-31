@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
-<application xmlns="http://ns.adobe.com/air/application/21.0">
+<application xmlns="http://ns.adobe.com/air/application/23.0">
     <id>com.appodeal.test</id>
-    <versionNumber>1.14.15</versionNumber>
-    <versionLabel/>
+    <versionNumber>1.1.1</versionNumber>
+    <versionLabel></versionLabel>
     <filename>Appodeal_Example</filename>
     <description/>
     <name>Appodeal_Example</name>
@@ -15,15 +15,11 @@
         <fullScreen>false</fullScreen>
         <aspectRatio>portrait</aspectRatio>
         <renderMode>cpu</renderMode>
-    </initialWindow>
+    <autoOrients>false</autoOrients></initialWindow>
     <icon/>
     <customUpdateUI>false</customUpdateUI>
     <allowBrowserInvocation>false</allowBrowserInvocation>
-	<extensions>
-        <extensionID>com.appodeal.aneplugin</extensionID>
-        <extensionID>com.appodeal.playservicesane</extensionID>
-        <extensionID>com.appodeal.supportane</extensionID>
-    </extensions>
+	
     <android>
         <manifestAdditions><![CDATA[
 	<manifest android:installLocation="auto">
@@ -172,4 +168,26 @@
 	]]></manifestAdditions>
     </android>
     
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <extensions>
+    <extensionID>com.appodeal.aneplugin</extensionID>
+    <extensionID>com.appodeal.playservicesane</extensionID>
+    <extensionID>com.appodeal.supportane</extensionID>
+  </extensions>
 </application>
